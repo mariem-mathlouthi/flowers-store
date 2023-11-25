@@ -6,7 +6,7 @@
       "description_flower": "A stunning and fragrant red and white rose bouquet",
       "nbr_flower": 15,
       "status": "enable",
-      "avatar": "../assets/w1.jpg",
+      "avatar": "../../public/flowers/w1.jpg",
       "Prix": 15
     },
     {
@@ -15,7 +15,7 @@
       "description_flower": "Lovely pink and white bouquet with an elegant touch",
       "nbr_flower": 20,
       "status": "enable",
-      "avatar": "../assets/w2.jpg",
+      "avatar": "../../public/flowers/w2.jpg",
       "Prix": 20
     },
     {
@@ -24,7 +24,7 @@
       "description_flower": "A charming mix of white and pink flowers in this delightful bouquet",
       "nbr_flower": 18,
       "status": "enable",
-      "avatar": "../assets/w3.jpg",
+      "avatar": "../../public/flowers/w3.jpg",
       "Prix": 15
     },
     {
@@ -33,7 +33,7 @@
       "description_flower": "A blissful combination of pink and white blooms in this delightful bouquet",
       "nbr_flower": 22,
       "status": "enable",
-      "avatar": "../assets/w4.jpg",
+      "avatar": "../../public/flowers/w4.jpg",
       "Prix": 20
     },
     {
@@ -42,7 +42,7 @@
       "description_flower": "A vibrant and eye-catching bouquet with pink and white tulips",
       "nbr_flower": 17,
       "status": "enable",
-      "avatar": "../assets/w5.jpg",
+      "avatar": "../../public/flowers/w5.jpg",
       "Prix": 50
     },
     {
@@ -51,7 +51,7 @@
       "description_flower": "A pure and elegant white daisy bouquet",
       "nbr_flower": 12,
       "status": "enable",
-      "avatar": "../assets/w6.jpg",
+      "avatar": "../../public/flowers/w6.jpg",
       "Prix": 25
     },
     {
@@ -60,7 +60,7 @@
       "description_flower": "A fancy bouquet with white and pink sunflowers",
       "nbr_flower": 19,
       "status": "enable",
-      "avatar": "../assets/w7.jpg",
+      "avatar": "../../public/flowers/w7.jpg",
       "Prix": 17
     },
     {
@@ -69,7 +69,7 @@
       "description_flower": "A graceful and charming pink carnation bouquet",
       "nbr_flower": 14,
       "status": "enable",
-      "avatar": "../assets/w8.jpg",
+      "avatar": "../../public/flowers/w8.jpg",
       "Prix": 30
     },
     {
@@ -78,7 +78,7 @@
       "description_flower": "An enchanting combination of white and pink hydrangeas",
       "nbr_flower": 6,
       "status": "enable",
-      "avatar": "../assets/w9.jpg",
+      "avatar": "../../public/flowers/w9.jpg",
       "Prix": 10
     },
     {
@@ -87,7 +87,7 @@
       "description_flower": "A radiant and captivating pink gerbera bouquet",
       "nbr_flower": 21,
       "status": "enable",
-      "avatar": "../assets/w10.jpg",
+      "avatar": "../../public/flowers/w10.jpg",
       "Prix": 40
     },
     {
@@ -96,7 +96,7 @@
       "description_flower": "A magical bouquet with pink and white irises",
       "nbr_flower": 23,
       "status": "enable",
-      "avatar": "../assets/w11.jpg",
+      "avatar": "../../public/flowers/w11.jpg",
       "Prix": 13
     },
     {
@@ -105,7 +105,7 @@
       "description_flower": "An exquisite combination of pink, red, and white violets in this stunning bouquet",
       "nbr_flower": 26,
       "status": "enable",
-      "avatar": "../assets/w12.jpg",
+      "avatar": "../../public/flowers/w12.jpg",
       "Prix": 20
     }
   ]
