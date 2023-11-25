@@ -6,7 +6,7 @@
       "description_flower": "A stunning and fragrant red and white rose bouquet",
       "nbr_flower": 15,
       "status": "enable",
-      "avatar": "../../public/flowers/w1.jpg",
+      "avatar": "/w1.jpg",
       "Prix": 15
     },
     {
