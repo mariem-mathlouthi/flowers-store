@@ -1,4 +1,4 @@
-{
+
 events:[
         {
     idflower: 10,
@@ -107,9 +107,9 @@ events:[
     status: 'enable',
     avatar: '../assets/w12.jpg',
     Prix:20,
-  },
+  }
 
       ]
 
       
-    }
+    
